@@ -1,8 +1,8 @@
 # makefun-news-image-20261126
 
 [![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
-[![rank](https://make.fun/badge/news-image-20261126/belski21-growl/makefun-news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
-[![reward](https://make.fun/badge/news-image-20261126/belski21-growl/makefun-news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/belski21-growl/makefun-news-image-20261126-v4/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/belski21-growl/makefun-news-image-20261126-v4/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 One illustrated front page summing up Thursday 26 November 2026 in a single image: 38 stories, 9 regions, 16 fields — a nor'easter grounding New York's 100th Thanksgiving parade, a drone strike killing two Italians in Kuwait, and Gukesh–Sindarov's third straight draw in Geneva, plus a UTC timeline, a numbers strip, a numbered world map with 18 pins and an honest DATE CHECK footer. Every story was verified against its primary outlet as first reported on 26 November 2026 (or as a dated 26 November event: scheduled fixtures, launches, strikes and votes taking place that day).
 
